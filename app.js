@@ -6,6 +6,6 @@
         }  
         else  
         {  
-        alert("Cookie not available");  
+        alert("Cookie not available webhook");  
         }  
     } 
